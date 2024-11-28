@@ -4,7 +4,7 @@ library(tidyverse)
 library(readr)
 #install.packages("dplyr")
 library(dplyr)
-data1<-read.csv("C:\\Users\\Advika Sharma\\Desktop\\R\\data.csv", header = TRUE)  
+data1<-read.csv("C:\\Users\\Deepak Kumawat\\Desktop\\R\\data.csv", header = TRUE)  
 #head(data1)
 
 #delete unwanted columns 
